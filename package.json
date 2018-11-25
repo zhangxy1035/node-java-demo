@@ -1,0 +1,16 @@
+{
+  "name": "node-java-test",
+  "version": "1.0.0",
+  "description": "node-java-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "java": "^0.11.0",
+    "node-java-maven": "^0.1.1",
+    "when": "^3.7.8"
+  }
+}
